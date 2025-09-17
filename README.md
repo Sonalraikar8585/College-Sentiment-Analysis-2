@@ -32,3 +32,4 @@ This project is useful for analyzing feedback in real-time and understanding pub
 
 1.Clone the repository: 2.Create a virtual environment: python -m venv venv 3.Activate the virtual environment: .\venv\Scripts\activate 4.Install required Python packages: pip install pandas numpy scikit-learn matplotlib seaborn streamlit 5.Train the machine learning model: python train_model.py 6.Run the Streamlit web app: streamlit run app.py
 
+
